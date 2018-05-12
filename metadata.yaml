@@ -1,0 +1,34 @@
+_repo: The-Works-Of-George-MeredithA-Linked-Index-to-the-Project-Gutenberg-Editions_28823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28823-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Indexes'
+title: 'The Works Of George Meredith
+
+  A Linked Index to the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28823
